@@ -60,7 +60,7 @@ body {
   border-color: var(--success-color);
 }
 
-.form-control.erro input {
+.form-control.error input {
   border-color: var(--error-color);
 }
 
